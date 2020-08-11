@@ -222,7 +222,7 @@ body {
   .footer-nav {
     flex-wrap: wrap;
     align-items: center;
-    max-width: 20px;
+    max-width: 200px;
   }
 
   .footer-nav.item {
