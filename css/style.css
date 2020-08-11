@@ -251,9 +251,10 @@ body {
   .rocket {
     padding: 0;
   }
-  .footer-nav.item-link {
+  .footer-nav.item {
     display: flex;
     flex-wrap: flex;
+    align-items: center;
     font-size: 10px;
     margin: 0;
   }
